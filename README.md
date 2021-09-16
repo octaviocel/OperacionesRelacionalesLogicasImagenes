@@ -14,4 +14,4 @@
   - Sustraccion    
 
 
-[!octavio]Imagenes.png
+![Octavio](Imagenes.png)
